@@ -29,7 +29,8 @@ I will become a developer who grows beautifully. 🚀<br>
 <br>
 <br>
 <br>
-
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rara-record&layout=compact&theme=solarized-graywhite   )
 
 
