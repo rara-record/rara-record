@@ -29,13 +29,14 @@
   <br>
   <br>
   <br>
-  </div>
 
 
-#
-<br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=buefy )   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rara-record&layout=compact&theme=solarized-buefy)
+  #
+  <br>
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=buefy )   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rara-record&layout=compact&theme=solarized-buefy)
+</div>
 
 
 
