@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO,%35I'M%20RARA👋&fontSize=20&animation=fadeIn&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO,%35I'M%20RARA👋&fontSize=35&animation=fadeIn&fontAlignY=44)
 <div align="center">
 <a href="https://rara-record.github.io/">
   <img src="https://img.shields.io/badge/GitHub Blog-7A1FA2?style=flat-squar&logo=GitHub Sponsors&logoColor=fff"/><br>
