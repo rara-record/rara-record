@@ -8,9 +8,9 @@
 
 
   👏 Hello! I want to become a front-end developer.<br> 
-  There are times when it is hard, but I am happiest when something develops.💕 <br>
+  There are times when it's hard, but I am happiest when something develops.💕 <br>
   I enjoy jogging 🏃 , driving and reading. <br>
-  I will become a developer who grows beautifully. 🚀<br>
+  I will be a developer who grows beautifully. 🚀<br>
 
   ### 🔥 Tech Skills 🔥<br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squar&logo=HTML5&logoColor=fff"/> 
