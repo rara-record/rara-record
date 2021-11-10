@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO, I'M%20RARA👋&fontSize=35&animation=fadeIn&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO, I'MRARA👋&fontSize=35&animation=fadeIn&fontAlignY=44)
 
 <div align="center">
 <a href="https://rara-record.github.io/">
