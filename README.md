@@ -20,14 +20,17 @@ I will become a developer who grows beautifully.⭐
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-squar&logo=Sass&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squar&logo=JavaScript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-squar&logo=React&logoColor=fff"/><br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-squar&logo=Node.js&logoColor=fff"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-squar&logo=MongoDB&logoColor=fff"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=fff"/><img src="https://img.shields.io/badge/Markdown-41454A?style=flat-squar&logo=Markdown&logoColor=fff"/>
-
-<br># 
-
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-squar&logo=Node.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-squar&logo=MongoDB&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Markdown-41454A?style=flat-squar&logo=Markdown&logoColor=fff"/>
+<br>
 **Tools**
 
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squar&logo=Webpack&logoColor=fff"/><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=Bootstrap&logoColor=fff"/><img src="https://img.shields.io/badge/Git-C71D23?style=flat-squar&logo=Git&logoColor=fff"/><img src="https://img.shields.io/badge/Notion-000000?style=flat-squar&logo=Notion&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squar&logo=Webpack&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=Bootstrap&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Git-C71D23?style=flat-squar&logo=Git&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat-squar&logo=Notion&logoColor=fff"/>
  # 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=tokyonight)
 
