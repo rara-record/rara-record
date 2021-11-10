@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=HELLO,%20I'M%20RARA👋&fontSize=20&animation=fadeIn&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO,%20I'M%20RARA👋&fontSize=20&animation=fadeIn&fontAlignY=44)
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub Blog-7A1FA2?style=flat&logo=GitHub Sponsors&logoColor=fff"/>
 Hi There! I'm a frontEnd developer.
