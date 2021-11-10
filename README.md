@@ -13,8 +13,6 @@ I will become a developer who grows beautifully.⭐
 
  #
  💪Skills<br>
- **Platforms & Languages**
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squar&logo=HTML5&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squar&logo=CSS3&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-squar&logo=Sass&logoColor=fff"/> 
@@ -24,9 +22,6 @@ I will become a developer who grows beautifully.⭐
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-squar&logo=MongoDB&logoColor=fff"/>
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=fff"/>
  <img src="https://img.shields.io/badge/Markdown-41454A?style=flat-squar&logo=Markdown&logoColor=fff"/>
-<br>
-  
-**Tools** <br>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squar&logo=Webpack&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=Bootstrap&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Git-C71D23?style=flat-squar&logo=Git&logoColor=fff"/>
