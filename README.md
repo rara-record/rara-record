@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-squar&logo=MongoDB&logoColor=fff"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Markdown-41454A?style=flat-squar&logo=Markdown&logoColor=fff"/><br>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squar&logo=Webpack&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=Bootstrap&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Git-C71D23?style=flat-squar&logo=Git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-squar&logo=Notion&logoColor=fff"/>
