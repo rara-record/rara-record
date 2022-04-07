@@ -12,26 +12,37 @@
 &nbsp;
 &nbsp;
 &nbsp;
-### 🔥 Tech Skills 🔥<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squar&logo=HTML5&logoColor=fff"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squar&logo=CSS3&logoColor=fff"/> &nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-squar&logo=Sass&logoColor=fff"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squar&logo=JavaScript&logoColor=fff"/>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-squar&logo=React&logoColor=fff"/><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-squar&logo=Node.js&logoColor=fff"/>&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-squar&logo=MongoDB&logoColor=fff"/>&nbsp;
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=fff"/>&nbsp;
-<img src="https://img.shields.io/badge/Markdown-41454A?style=flat-squar&logo=Markdown&logoColor=fff"/><br>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=Bootstrap&logoColor=fff"/>&nbsp;
-<img src="https://img.shields.io/badge/Git-C71D23?style=flat-squar&logo=Git&logoColor=fff"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-squar&logo=Notion&logoColor=fff"/>&nbsp;
-&nbsp;
-&nbsp;
+### 🛠  Technical Skills
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=Jquery)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)<br/>
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![MobX](https://img.shields.io/badge/-MobX-05122A?style=flat&logo=MobX)&nbsp;
+![Styled-components](https://img.shields.io/badge/-Styled--components-05122A?style=flat&logo=styled-components)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
+![PostCss](https://img.shields.io/badge/-PostCss-05122A?style=flat&logo=PostCss&logoColor=1572B6)<br/>
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
+![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+![markdown](https://img.shields.io/badge/-markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 &nbsp;
 &nbsp;
 ### 💻  GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=buefy )<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rara-record&layout=compact&theme=solarized-buefy)
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:a52447879@gmail.com"><img src="https://img.shields.io/badge/-a52447879@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/kkbbrr"><img src="https://img.shields.io/badge/-@kkbbrr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 
