@@ -8,8 +8,10 @@
 ✔️  저에 대해 궁금하시다면, <a href="https://rara-record.github.io/">
   <img src="https://img.shields.io/badge/My Blog-7A1FA2?style=flat-squar&logo=GitHub Sponsors&logoColor=fff"/>
 </a>를 방문해주세요.
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ### 🔥 Tech Skills 🔥<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squar&logo=HTML5&logoColor=fff"/> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squar&logo=CSS3&logoColor=fff"/> &nbsp;
@@ -23,15 +25,13 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=Bootstrap&logoColor=fff"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-C71D23?style=flat-squar&logo=Git&logoColor=fff"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-squar&logo=Notion&logoColor=fff"/>&nbsp;
-<br>
-<br>
-<br>
-
-  ### 💻  GitHub Analytics
-  <br>
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=buefy )<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rara-record&layout=compact&theme=solarized-buefy)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+### 💻  GitHub Analytics
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rara-record&show_icons=true&theme=buefy )<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rara-record&layout=compact&theme=solarized-buefy)
 
 
 
