@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=4,6&width=100&height=250&section=header&text=BORA%20KIM&fontSize=50&animation=fadeIn&fontAlignY=40&rotate=15&desc=Front-End%20Developer&fontColor=fff)
 
-✔️ 풀스택 개발자를 꿈꾸는 김보라입니다 ☺️<br/>
+## 풀스택 개발자를 꿈꾸는 김보라입니다 ☺️<br/>
 ✔️ 모르는 것은 창피한 것이 아니다. 단지 물어보지 않는 것이 창피한 것이다!<br/>
 ✔️  명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다!<br/>
 ✔️  기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다!<br/>
