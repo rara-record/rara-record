@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=4,6&width=100&height=250&section=header&text=BORA%20KIM&fontSize=50&animation=fadeIn&fontAlignY=40&rotate=15&desc=Front-End%20Developer&fontColor=fff)
 
-## 프론트엔드 개발자아아아아! ☺️<br/>
-✔️ 코드치는 개발자가 아닌 생각하는 개발자! <br/>
+## FE 개발자 ☺️<br/>
 ✔️  명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다!<br/>
 ✔️  기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다!<br/>
 ✔️ 저의 피드백을 받는 것을 언제나 환영 입니다!<br/>
-✔️  저에 대해 궁금하시다면, <a href="https://rara-record.github.io/">
-  <img src="https://img.shields.io/badge/My Blog-7A1FA2?style=flat-squar&logo=GitHub Sponsors&logoColor=fff"/>
-</a>를 방문해주세요.
 &nbsp;
 &nbsp;
 &nbsp;
