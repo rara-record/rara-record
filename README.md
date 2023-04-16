@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=4,6&width=100&height=250&section=header&text=BORA%20KIM&fontSize=50&animation=fadeIn&fontAlignY=40&rotate=15&desc=Front-End%20Developer&fontColor=fff)
 
 나는 개인으로든 집단으로든, 사용자가 숫자가 아니라 사람이 목표이고 사람이 존중되어야 한다는 것을 기억할 것이다. <br />
-
 &nbsp;
 &nbsp;
 &nbsp;
